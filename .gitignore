@@ -1,0 +1,7 @@
+# Ignorar el entorno virtual
+venv/
+venv
+
+# Ignorar la carpeta devlper
+devlper/
+devlper
