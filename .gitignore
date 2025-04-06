@@ -5,3 +5,5 @@ venv
 # Ignorar la carpeta devlper
 devlper/
 devlper
+
+airflow/logs/
